@@ -16,3 +16,8 @@ make clean
 
 I believe it's portable to OpenHarmony. You can try Native API of OH to make it runnable on RK3568 !
 
+### Result
+
+If there is no error  you may get this:
+
+![Screenshot 2024-04-23 at 04.31.21](https://xubbbb-chartbed.oss-cn-shanghai.aliyuncs.com/img/markdown/Screenshot%202024-04-23%20at%2004.31.21.png)
